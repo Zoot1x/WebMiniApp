@@ -42,7 +42,7 @@ def parse_telegram_data(init_data: str) -> dict:
 
 def process_contest_participation(contest_hash: str, user_data: dict = None):
     """Обрабатывает участие в конкурсе"""
-    # Ваша бизнес-логика обработки участия
+    # Ваша бизнес-логика обработки участия hahaha
     
     if user_data:
         # Если есть данные пользователя (открыто через Mini App)
